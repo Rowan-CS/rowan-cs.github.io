@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 的博客 | Rowan Blog
+title: Rowan Blog
+SEOTitle: 呆梨的博客 | Rowan Blog
 header-img: img/home-bg.jpg
 email: 724877058@qq.com
-description: "这里是 呆梨 的个人博客，与你一起发现更大的世界 | 记录学习与生活"
+description: "这里是 呆梨 的个人博客 | 记录学习与生活"
 keyword: "呆梨的博客, Rowan Blog, 博客, 个人网站, 互联网, Java, Web, JavaScript, Golang, 后端"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://rowan-cs.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
